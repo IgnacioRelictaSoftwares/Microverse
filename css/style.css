@@ -1,0 +1,28 @@
+#title{
+  text-align: center;
+  margin-left:10%;
+  margin-right:10%;
+}#description{
+  text-align: justify;
+  margin-left:10%;
+  margin-right:10%;
+}#survey-form{
+  margin-left:10%;
+  margin-right:10%;
+  position:relative;
+  padding:5%;
+  
+  background-color:white;
+  height:auto;
+}#name-label,#name,#email-label,#email,#number-label, #number, select,fieldset{
+  
+  position:relative;
+  padding-top:2%;
+  width:90%;
+  margin-top:1%;
+}body{background-color:RGB(40,180,90, 0.3);}textarea,#submit{
+position:relative;
+  padding-top:2%;
+  width:100%;
+  margin-top:1%;
+}
